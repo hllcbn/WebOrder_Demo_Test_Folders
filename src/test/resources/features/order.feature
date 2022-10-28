@@ -7,7 +7,7 @@ Feature: WebOrder page food Order Functionality
     When User validates the title 'ORDER DETAILS - Weborder' from homepage
     And User clicks Group Order box and Next Button
     And User sends the word 'Test' for Note to Invitees section
-    And User sends e-mail addresses which are 'ahmet@gmail.com' and 'mustafa@gmail.com' to Invite List
+    And User sends e-mail addresses which are 'hil@gmail.com' and 'mft@gmail.com' to Invite List
   @smoke @ahmet
   Scenario: Testing the webOrder functionality for House
 #    Given User navigates to the 'https://demo.weborder.net'
