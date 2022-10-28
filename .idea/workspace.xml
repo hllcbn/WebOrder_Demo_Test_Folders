@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aee515a3-0f99-4c9f-ba34-c3ebd8ce5acd" name="Changes" comment="WebOrder Test Folders-update">
-      <change afterPath="$PROJECT_DIR$/src/test/java/screenshot/Fri-Oct-28-11-06-53-CDT-2022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/screenshot/Fri-Oct-28-11-08-18-CDT-2022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/screenshot/Fri-Oct-28-11-47-23-CDT-2022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/screenshot/Fri-Oct-28-11-47-36-CDT-2022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/screenshot/Fri-Oct-28-11-47-39-CDT-2022.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/order.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/order.feature" afterDir="false" />
-    </list>
+    <list default="true" id="aee515a3-0f99-4c9f-ba34-c3ebd8ce5acd" name="Changes" comment="WebOrder Test Folders-update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,14 +32,14 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/hilalayirici/Desktop/JAVA/WebOrder/src/test/java/com/test"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hilalayirici/Desktop/JAVA/WebOrder/src/test/java/com/test&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java/com/test" />
